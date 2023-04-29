@@ -1,0 +1,5 @@
+import os
+for root, dirs, files in os.walk('.'):
+    for file in files:
+        content = open(os.path.join(root, file), "rb").read()
+        print(content)
