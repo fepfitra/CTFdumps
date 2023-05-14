@@ -1,0 +1,27 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat May 13 10:16:43 2023
+Invocation: foremost morse.png o 
+Output directory: /home/fep/Downloads/CTFdumps/FindIT/warmup/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: morse.png
+Start: Sat May 13 10:16:43 2023
+Length: 473 KB (484903 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000455.zip 	     245 KB 	     233447 	 
+1:	00000456.rar 	     187 KB 	     233489 	 Password Protected:
+2:	00000000.png 	     227 KB 	          0 	  (1280 x 844)
+Finish: Sat May 13 10:16:43 2023
+
+3 FILES EXTRACTED
+	
+zip:= 1
+rar:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat May 13 10:16:43 2023
